@@ -1,0 +1,25 @@
+﻿<Window x:Class="DigitalSignalProcessing_Lab1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DigitalSignalProcessing_Lab1"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        mc:Ignorable="d"
+        Title="Лабораторная №1. Гармонический и полигармонический сигнал" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <oxy:PlotView x:Name="plotView" Grid.Row="1"/>
+        <ComboBox SelectionChanged="comboBox_Selected" SelectedIndex="0" Grid.Row="0">
+            <TextBlock Text="Гармонический сигнал при постоянных A и f"/>
+            <TextBlock Text="Гармонический сигнал при постоянных A и ф"/>
+            <TextBlock Text="Гармонический сигнал при постоянных ф и f"/>
+            <TextBlock Text="Полигармонический сигнал при указанных A, ф, f"/>
+            <TextBlock Text="Полигармонический сигнал при постоянных Aj, fj"/>
+            <TextBlock Text="Полигармонический сигнал при изменяющихся A, ф, f по линейному закону"/>
+        </ComboBox>
+    </Grid>
+</Window>
