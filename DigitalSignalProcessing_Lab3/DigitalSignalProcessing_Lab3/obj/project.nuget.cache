@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIfUlG39Gt/a1bKBqBtBuN8AGdMsY6D8xFKtN6G7KTRF2itQ1uY6WfCVKGkzcop6WTr7dVFjYl8113YO+qpfeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ackerm4noff\\Desktop\\Projects\\DigitalSignalProcessing_Lab3\\DigitalSignalProcessing_Lab3\\DigitalSignalProcessing_Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ackerm4noff\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\ackerm4noff\\.nuget\\packages\\oxyplot.wpf\\2.1.0\\oxyplot.wpf.2.1.0.nupkg.sha512",
+    "C:\\Users\\ackerm4noff\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.0\\oxyplot.wpf.shared.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
