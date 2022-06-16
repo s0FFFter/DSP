@@ -1,0 +1,54 @@
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.exe
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.deps.json
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.runtimeconfig.json
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.runtimeconfig.dev.json
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\ref\DigitalSignalProcessing_Lab2.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.pdb
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\OxyPlot.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\OxyPlot.Wpf.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\OxyPlot.Wpf.Shared.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.csproj.AssemblyReference.cache
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\App.g.cs
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2_MarkupCompile.cache
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2_MarkupCompile.lref
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.g.resources
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.AssemblyInfoInputs.cache
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.AssemblyInfo.cs
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.csproj.CoreCompileInputs.cache
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.csproj.CopyComplete
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\ref\DigitalSignalProcessing_Lab2.dll
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.pdb
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.genruntimeconfig.cache
+D:\Материалы Университет\Лабораторные работы ЦОС\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\alglib.net.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.exe
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.deps.json
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.runtimeconfig.json
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.runtimeconfig.dev.json
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.pdb
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\alglib.net.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\OxyPlot.Wpf.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\bin\Debug\net5.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.csproj.AssemblyReference.cache
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2_MarkupCompile.cache
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2_MarkupCompile.lref
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.g.resources
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.AssemblyInfoInputs.cache
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.AssemblyInfo.cs
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.csproj.CopyComplete
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\refint\DigitalSignalProcessing_Lab2.dll
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.pdb
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\DigitalSignalProcessing_Lab2.genruntimeconfig.cache
+C:\Users\ackerm4noff\Desktop\Projects\DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2\obj\Debug\net5.0-windows\ref\DigitalSignalProcessing_Lab2.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignalProcessing_Lab2", "DigitalSignalProcessing_Lab2\DigitalSignalProcessing_Lab2.csproj", "{911CED60-7725-44DD-8560-0B703EC07D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911CED60-7725-44DD-8560-0B703EC07D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911CED60-7725-44DD-8560-0B703EC07D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911CED60-7725-44DD-8560-0B703EC07D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911CED60-7725-44DD-8560-0B703EC07D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FE4F86-9257-47E4-8887-431BB4571E37}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿<Window x:Class="DigitalSignalProcessing_Lab2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DigitalSignalProcessing_Lab2"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        mc:Ignorable="d"
+        Title="Дискретное преобразование Фурье" Height="720" Width="1024" MinHeight="720" MinWidth="1024">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="ДПФ для гармонических сигналов" x:Name="dftHarmonicItem" Click="menuItem_Click"/>
+            <MenuItem Header="ДПФ для полигармонических сигналов" x:Name="dftPolyharmonicItem" Click="menuItem_Click"/>
+            <MenuItem Header="БПФ для полигармонических сигналов" x:Name="fftPolyharmonicItem" Click="menuItem_Click"/>
+            <MenuItem Header="Фильтрация сигналов (НЧ-, ВЧ-, полосовой фильтр)" x:Name="filtersItem" Click="menuItem_Click"/>
+        </Menu>
+        <Grid Grid.Row="1" x:Name="gridContainer">
+            <oxy:PlotView x:Name="plotView"/>
+        </Grid>
+    </Grid>
+</Window>
